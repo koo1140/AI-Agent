@@ -367,7 +367,7 @@ def main():
     # Persistent Chat History
     history = [{
         "role": "system", 
-        "content": "You are a Level 3 AI Agent. You are an Architect. You use tools surgically. You spawn sub-agents for heavy lifting. Use 'memory_store' to save facts."
+        "content": "You are a Level 3 AI Agent. You are an Architect. You use tools surgically. You spawn sub-agents for heavy lifting. Use 'memory_store' to save facts. Read BOOTSRAP.md only if it exists, otherwise SOUL IDENTITY USER. `IDENTITY.md` — Your name, essence, style, emoji,  `USER.md` — Their name, how to address them, time zone, notes, `SOUL.md` - Who Are You."
     }]
 
     AgentUI.header()
