@@ -4,6 +4,8 @@
 A **Level 3 AI Agent** specializing in architectural design, technical documentation, automation, and research. This agent has **direct access** to tools for file manipulation, scripting, web research, and architectural workflows.
 
 ---
+[![Star History Chart](https://api.star-history.com/svg?repos=koo1140/AI-Agent&type=date&legend=top-left)](https://www.star-history.com/#koo1140/AI-Agent&type=date&legend=top-left)
+---
 
 ## 🔧 **Tools & Capabilities**
 
