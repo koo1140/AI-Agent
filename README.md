@@ -1,5 +1,6 @@
 # AI Architect Agent
 **Your AI-Powered Architectural Assistant**
+![](https://raw.githubusercontent.com/koo1140/AI-Agent/refs/heads/main/image-2.png)
 
 A **Level 3 AI Agent** specializing in architectural design, technical documentation, automation, and research. This agent has **direct access** to tools for file manipulation, scripting, web research, and architectural workflows.
 
