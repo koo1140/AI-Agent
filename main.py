@@ -94,10 +94,8 @@ class AgentUI:
 
     @staticmethod
     def assistant_message(content: str):
-        # Render markdown content elegantly
-        # FIX: Use direct color values instead of theme references in style parameter
-        md = Markdown(content)
-        console.print(Panel(md, title="[bold]AGENT[/bold]", border_style="red", style="misty_rose1 on #1a0505"))
+      md = Markdown(content)
+      console.print(Panel(md, title="[bold #d4a574]AGENT[/bold #d4a574]", border_style="#8b6b4a", style="#f4e8d3 on #2b2620"))
 
     @staticmethod
     def step_log(step_num: int, msg: str, is_sub: bool = False):
