@@ -1,3 +1,6 @@
+# this project is no longer mentained, please go to the new repo
+# https://github.com/koo1140/OpenAgent
+
 # AI Architect Agent
 **Your AI-Powered Architectural Assistant**
 ![](https://raw.githubusercontent.com/koo1140/AI-Agent/refs/heads/main/image-2.png)
